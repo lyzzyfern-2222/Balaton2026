@@ -27,8 +27,6 @@ Instead of PD:
 
 ---
 
-# Key Concepts
-
 ## 1. What is a Drift Diffusion Model (DDM)?
 
 A DDM models decisions as **noisy evidence accumulation over time**.
