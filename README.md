@@ -92,7 +92,7 @@ Each row = one trial
 
 ---
 
-## Fitting model parametersameters.
+## Fitting model parameters:
 
 The model:
 
