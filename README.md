@@ -92,9 +92,7 @@ Each row = one trial
 
 ---
 
-# What Does “Fitting Parameters” Mean?
-
-You do NOT manually set parameters.
+## Fitting model parametersameters.
 
 The model:
 
