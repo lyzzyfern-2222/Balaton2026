@@ -1,30 +1,8 @@
 # Balaton2026
 
-# Bayesian Hierarchical Drift Diffusion Modeling for IAT / Amodio et al. (2008) Replication
+# Bayesian Hierarchical Drift Diffusion Modeling for IAT 
 
 ## Overview
-
-We aim to replicate **Study 2** from:
-
-Amodio, D. M., Devine, P. G., & Harmon-Jones, E. (2008)  
-*Individual differences in the regulation of intergroup bias*
-
-### Original finding
-Low-prejudice individuals differ in their ability to regulate bias.  
-Those with **high internal motivation (IMS)** but **low external motivation (EMS)** show better control.
-
-### Original analysis
-- Measure: **Process Dissociation (PD) control estimates**
-- Test: **2 × 2 ANOVA**
-  - Group: high IMS/low EMS vs high IMS/high EMS
-  - Task: weapons vs flankers
-- Result: significant interaction (F(1,31) = 5.14, p = .03)
-
-### Replication goal
-Instead of PD:
-→ Use **Drift Diffusion Models (DDM)**  
-→ Estimated via **hierarchical Bayesian modeling**
-
 ---
 
 ## 1. What is a Drift Diffusion Model (DDM)?
